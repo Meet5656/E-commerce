@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231125355115",
+    "project_id": "fir-onboard-5d56a",
+    "storage_bucket": "fir-onboard-5d56a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231125355115:android:a4a440f2cb9e9a22cb3f2e",
+        "android_client_info": {
+          "package_name": "com.example.first_screen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231125355115-f6at7b031kfmmmi7sis21sre56a4f7bu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJZLgP-wSNTr7CWBFlzUJbZOgzUAhmfQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231125355115-f6at7b031kfmmmi7sis21sre56a4f7bu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
